@@ -12,8 +12,10 @@ This dataset contains detailed sales and inventory records of iPhones sold by a 
 ## file included
 [Nigerian Iphone Store Analysis..xlsx](https://github.com/user-attachments/files/21515840/Nigerian.Iphone.Store.Analysis.xlsx)
 
+## dashboard overview
 
-## Potential Use Cases
+
+## insights
 
 -  Sales performance dashboard
 -  Trend analysis by iPhone model and condition
@@ -21,17 +23,14 @@ This dataset contains detailed sales and inventory records of iPhones sold by a 
 -  Customer preference insights (color, capacity, etc.)
 - 🗺 Regional distribution and demand analysis
 
-## 🔧 Tools Recommended
+## 🔧 Tools Used
 
-- Excel / Power Pivot
-- Power BI / Tableau
-- Python (Pandas) or SQL for data transformation
+- Excel 
 
 ## Author
 
 **Created by:** Bamigbade Deborah  
 **Location:** Nigeria  
-**Use case:** Portfolio project or business data exploration
 
 ---
 
